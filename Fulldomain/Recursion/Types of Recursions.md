@@ -85,7 +85,7 @@ func sumOfNaturalNumbersTailRecursion(n int, accumulator int) int {
 ---
 
 ### **4. Head Recursion** 
-[[Recursion/drawings.md#^JKpW_b1N8q3VA5G6e6DAI|Image]]
+[[drawings#^JKpW_b1N8q3VA5G6e6DAI|Image]]
 - **Definition:** In head recursion, the recursive call happens before any other operations in the function.
 - **Example:**
     - A simple recursive algorithm that prints numbers in reverse order.
