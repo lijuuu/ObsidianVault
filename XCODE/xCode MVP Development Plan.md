@@ -18,7 +18,8 @@ The Xcode MVP will deliver a scalable, sandboxed coding platform with user manag
    - Integrate with the sandboxed engine for running submitted code.
 
 3. **User Management**
-   - Begin implementing `AuthUserAdminService` (gRPC) for user registration, login, and basic admin features.
+   - Begin implementing `AuthUserAdminService` (gRPC) for user registration, login, and basic admin features.  "isBanned": false,
+            "isVerified": true,
 
 ---
 
