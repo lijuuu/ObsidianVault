@@ -1,0 +1,2 @@
+**What's your salary expectation?**
+Based on my skills and the experience I've gained building fullstack applications with Go and React, working extensively with microservices, Docker, Kubernetes, and managing real-world projects like a code execution platform , I’m looking for a role in the ₹8-10 LPA range. I believe this reflects the value I can bring in terms of backend development, system design, and end-to-end product ownership. That said, I’m flexible and more focused on joining a team where I can grow, take ownership, and make meaningful contributions.

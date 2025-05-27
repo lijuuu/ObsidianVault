@@ -1,0 +1,8 @@
+- Big Thanks to Mariya Mam and Sivasakthi Sir, they really helped us a lot in terms of communication and boosted our confidence as well.
+- Before the boarding classes, we were taught various communication techniques, but we weren't able to apply them effectively.
+- During the boarding week, we were not only able to understand how to apply what we learned, but also gained clarity about our own personality and areas of improvement.
+- The sessions were interactive and engaging, which made it easier to come out of our comfort zone and express ourselves freely.
+- We learned how to carry ourselves professionally, present ideas clearly, and actively listen in a conversation.
+- It wasn't just about improving English or speaking fluently, it was about becoming more self-aware and confident in both formal and informal settings.
+- The boarding week gave us a safe space to make mistakes, learn, and grow without judgment.
+- Overall, it has been a great experience and we now feel more prepared to face real-world communication challenges in the workplace.
